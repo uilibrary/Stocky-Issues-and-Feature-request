@@ -1,6 +1,8 @@
 # Stocky-Issues-and-Feature-request
 
-<img src="https://i.ibb.co/G0XmYfz/image.png" alt="image" border="0">This is Repo is for Stocky-Ultimate Inventory with Pos support and issues 
+This is Repo is for Stocky-Ultimate Inventory with Pos support and issues 
+
+<img src="https://i.ibb.co/G0XmYfz/image.png" alt="image" border="0">
 
 If you like our item you can rete it . If you don’t know how to provide ratings & review please visit this link: https://help.market.envato.com/hc/en-us/articles/203269490-Giving-Feedback-On-Items Thank you
 
